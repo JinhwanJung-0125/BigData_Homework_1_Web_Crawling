@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bigdata_data_crawling_practice_2", "Bigdata_data_crawling_practice_2.pyproj", "{C7F9486C-712F-44C0-A09A-202AFD35AB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F9486C-712F-44C0-A09A-202AFD35AB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F9486C-712F-44C0-A09A-202AFD35AB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFC6CB24-E300-4848-BC78-8DCDDB7E7D65}
+	EndGlobalSection
+EndGlobal
